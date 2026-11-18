@@ -24,7 +24,6 @@ Ce projet applique la méthode **EBIOS Risk Manager** de l'ANSSI à une applicat
 | [`rapport/Analyse_risques_EBIOS_RM_GestLoc.pdf`](rapport/Analyse_risques_EBIOS_RM_GestLoc.pdf) | Rapport complet (8 pages) : synthèse, 5 ateliers, plan de traitement |
 | [`rapport/Analyse_risques_EBIOS_RM_GestLoc.md`](rapport/Analyse_risques_EBIOS_RM_GestLoc.md) | Même rapport, lisible directement sur GitHub |
 | [`registre/Registre_risques_EBIOS_RM_GestLoc.xlsx`](registre/Registre_risques_EBIOS_RM_GestLoc.xlsx) | Registre des risques : niveaux et matrice calculés par formules, plan de traitement chiffré |
-| `docs/` | Scripts de génération du PDF et du registre |
 
 ## Démarche
 
